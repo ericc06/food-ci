@@ -1,3 +1,4 @@
+# foo comment
 language: php
 php:
   - '7.0'
